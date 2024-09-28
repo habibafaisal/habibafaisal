@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Habiba Faisal<br>- 👀 I’m currently working as a Software Engineer and developing mobile apps using React Native<br>- 🌱 I’m currently learning more about AI, GenAI and Data Science<br>- 💞️ I’m looking to collaborate on projects related to AI, GenAI and Data Science<br>- 📫 Email me on habibablogs@gmail.com or habibafaisal8@gmail.com for potential collaborations.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I'm trying to learn how to drive even tho I already know it
+- 👋 Hi, I’m Habiba Faisal<br>- 👀 I’m currently working as a Software Engineer and developing mobile apps using React Native<br>- 🌱 I’m currently learning more about AI, GenAI and Data Science<br>- 💞️ I’m looking to collaborate on projects related to AI, GenAI and Data Science<br>- 📫 Email me on habibablogs@gmail.com or habibafaisal8@gmail.com for potential collaborations.<br>- 😄 Pronouns: She/Her<br>- ⚡ 
 
 
 ## 🌐 Socials:
